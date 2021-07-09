@@ -63,10 +63,13 @@ body {
 } */
 
 #write p {
-    line-height: 1.8rem;
-    word-spacing: .05rem;
+	
+/* -修改 删除间距
+   line-height: 1.8rem;
+    word-spacing: .05rem; 
+*/
     /* color: #3f3f3f; */
-    color: var(--mid-13);
+    color: var(--mid-13)
 }
 
 
@@ -473,14 +476,20 @@ table tr td:last-child {
 #write .md-fences {
     border: 1px solid #7a7a7a;
     -webkit-font-smoothing: initial;
-    margin: 2rem 0 !important;
+	
+    /* 修改margin: 2rem 0 !important; */
+	margin: 0 0 !important;
     /* padding: 0.3rem 0 !important; */
-    padding: 3px 5px;
+	
+    /* 修改padding: 3px 5px; */
+	padding: 0px 5px;
+	
 /*     line-height: 1.55rem 修改;
 */  line-height: 1.1rem  
 	border-radius: 2px;
     font-family: 'Roboto Mono', 'Source Sans Pro', 'Microsoft YaHei', '微软雅黑' !important;
-    font-size: 0.9rem;
+    /* 修改 font-size: 0.9rem; */
+	font-size: 14px;
     word-wrap: normal;
 }
 
