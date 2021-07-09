@@ -1,6 +1,6 @@
 > 关于 Wjy
 
-该主题是以[zj]([Theigrams/My-Typora-Themes: A CSS style for Typora (github.com)](https://github.com/Theigrams/My-Typora-Themes))为基础，结合李笑来的[Markdownhere](https://gist.github.com/xiaolai/aa190255b7dde302d10208ae247fc9f2)的进行修改。符合自己的需求和习惯。
+该主题是以[zj](https://github.com/Theigrams/My-Typora-Themes)为基础，结合李笑来的[Markdownhere](https://gist.github.com/xiaolai/aa190255b7dde302d10208ae247fc9f2)的进行修改。符合自己的需求和习惯。
 
 >目的
 
